@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/mediaPlayer.iml" filepath="$PROJECT_DIR$/mediaPlayer.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/InterFX.iml" filepath="$PROJECT_DIR$/InterFX.iml" />
+>>>>>>> f1e27f449be9be504236df4439b5320a240d51f3
     </modules>
   </component>
 </project>
